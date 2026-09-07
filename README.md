@@ -29,7 +29,7 @@ Authors
 
 ### Screenshot
 
-<img width="1211" height="664" alt="Image" src="https://github.com/user-attachments/assets/fd53e0b0-7873-4b62-be41-a18812791da3" />
+<img width="1208" height="661" alt="Image" src="https://github.com/user-attachments/assets/db449e3d-f7c2-48ac-9b3d-f28173b942c0" />
 
 ### Installation
 * Download the `dist/codesource.zip` archive.
