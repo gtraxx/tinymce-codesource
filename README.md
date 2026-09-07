@@ -13,7 +13,7 @@ Replace the default TinyMCE source code modal with a powerful, modern CodeMirror
 
 Si vous souhaitez soutenir le développement, vous pouvez faire un don via PayPal :
 
-[![Faire un don](https://img.shields.io/badge/Donate-PayPal-blue.svg)](https://www.paypal.com/donate/?business=BQBYN3XYGMDML&no_recurring=0&currency_code=EUR)
+[![Faire un don](https://img.shields.io/badge/Donate-PayPal-blue.svg)](https://paypal.me/aurelienstireg)
 
 Authors
 -------
