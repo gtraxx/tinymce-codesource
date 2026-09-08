@@ -60,7 +60,6 @@
         };
 
         // 3. Chargement autonome du bundle CM6
-        // 3. Chargement autonome du bundle CM6
         const ensureDependencies = function (callback) {
             if (window.CM6 && window.CM6.openSearchPanel) { // Sécurité supplémentaire
                 callback();
@@ -68,7 +67,6 @@
             }
             const script = document.createElement('script');
             script.type = 'text/javascript';
-            // 👇 On ajoute "?v=1.1" à la fin pour forcer le navigateur à vider son cache !
             script.src = url + '/codemirror.bundle.js?v=1.1';
             script.onload = callback;
             script.onerror = function () {
@@ -98,11 +96,9 @@
                     },
                     buttons: [
                         { type: 'cancel', name: 'cancel', text: 'Annuler' },
-                        // 👇 NOUVEAU BOUTON AJOUTÉ ICI
                         { type: 'custom', name: 'search', text: 'Rechercher', icon: 'search' },
                         { type: 'submit', name: 'save', text: 'Enregistrer', primary: true }
                     ],
-                    // 👇 NOUVEL ÉVÉNEMENT POUR INTERCEPTER LE CLIC SUR "RECHERCHER"
                     onAction: function (api, details) {
                         if (details.name === 'search' && cmInstance) {
                             openSearchPanel(cmInstance);
