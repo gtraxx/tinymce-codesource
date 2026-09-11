@@ -9,6 +9,8 @@ Replace the default TinyMCE source code modal with a powerful, modern CodeMirror
 [![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](http://www.gnu.org/licenses/gpl-3.0)
 ![Statut](https://img.shields.io/badge/projet-Open%20Source-orange)
 
+<img width="1200" height="741" alt="Image" src="https://github.com/user-attachments/assets/3ba8c1a4-3b05-4ceb-bea8-91fdd5099ff8" />
+
 ## Soutenir le projet
 
 Si vous souhaitez soutenir le développement, vous pouvez faire un don via PayPal :
